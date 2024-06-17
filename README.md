@@ -13,4 +13,4 @@ The dataset was collected from different online sources:
 
 5)https://www.nytimes.com/
 
-https://edition.cnn.com/
+6)https://edition.cnn.com/
