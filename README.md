@@ -11,4 +11,6 @@ The dataset was collected from different online sources:
 
 4)https://www.snopes.com/
 
-5)just a few from: https://www.nytimes.com/
+5)https://www.nytimes.com/
+
+https://edition.cnn.com/
